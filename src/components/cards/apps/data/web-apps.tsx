@@ -8,31 +8,7 @@ export const webApps: AppItemType[] = [
     image: "/works/flashserp/logo.png",
     link: "https://flashserp.com",
     path: "/work/flashserp",
-    tags: [
-      "Next.js",
-      "React",
-      "Trigger.dev",
-      "Node.js",
-      "Stripe",
-      "Supabase",
-    ],
-    hasBorder: true,
-  },
-  {
-    title: "Retailed",
-    description:
-      "The ultimate inventory tool for resellers. Advanced inventory features. Import your items and track all your inventory in one place. Tailored for sneakers, streetwear and more!",
-    image: "/works/retailed/logo.png",
-    link: "https://retailed.io",
-    path: "/work/retailed",
-    tags: [
-      "Next.js",
-      "React",
-      "Trigger.dev",
-      "Node.js",
-      "Stripe",
-      "Supabase",
-    ],
+    tags: ["Next.js", "React", "Trigger.dev", "Node.js", "Stripe", "Supabase"],
     hasBorder: true,
   },
   {
@@ -42,14 +18,17 @@ export const webApps: AppItemType[] = [
     image: "/works/thegram/logo.png",
     link: "https://thegram.vip",
     path: "/work/thegram",
-    tags: [
-      "Next.js",
-      "React",
-      "Trigger.dev",
-      "Node.js",
-      "Stripe",
-      "Supabase",
-    ],
+    tags: ["Next.js", "React", "Trigger.dev", "Node.js", "Stripe", "Supabase"],
+    hasBorder: true,
+  },
+  {
+    title: "Retailed",
+    description:
+      "The ultimate inventory tool for resellers. Advanced inventory features. Import your items and track all your inventory in one place. Tailored for sneakers, streetwear and more!",
+    image: "/works/retailed/logo.png",
+    link: "https://retailed.io",
+    path: "/work/retailed",
+    tags: ["Next.js", "React", "Trigger.dev", "Node.js", "Stripe", "Supabase"],
     hasBorder: true,
   },
   {

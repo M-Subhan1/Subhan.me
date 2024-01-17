@@ -1,8 +1,8 @@
 import {
   githubIcon,
-  instagramIcon,
-  linkedinIcon,
   xIcon,
+  linkedinIcon,
+  youtubeIcon,
 } from "@/assets/icons/all-social";
 import linksMetadata from "@/metadata/links";
 
@@ -20,16 +20,16 @@ const linksCards = [
     icon: linkedinIcon,
   },
   {
-    title: "Instagram",
-    className: "!bg-transparent",
-    href: linksMetadata.instagram,
-    icon: instagramIcon,
-  },
-  {
     title: "X",
     className: "p-4 bg-dark dark:bg-white",
     href: linksMetadata.x,
     icon: xIcon,
+  },
+  {
+    title: "Youtube",
+    className: "p-4 bg-dark dark:bg-white",
+    href: linksMetadata.youtube,
+    icon: youtubeIcon,
   },
 ];
 

@@ -1,11 +1,10 @@
-import { linkedinUsername, username } from "@/constants/strings";
+import { linkedinUsername, twitterUsername, username, youtubeUsername } from "@/constants/strings";
 
 const linksMetadata = {
-  x: "https://x.com/" + username,
+  x: "https://x.com/" + twitterUsername,
   linkedin: "https://linkedin.com/in/" + linkedinUsername,
   github: "https://github.com/" + username,
-  instagram: "https://instagram.com/" + username,
-  youtube: "https://youtube.com/@" + username,
+  youtube: "https://youtube.com/@" + youtubeUsername,
 };
 
 export default linksMetadata;

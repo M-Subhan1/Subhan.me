@@ -1,6 +1,9 @@
 const author = "Subhan Abbas";
-const title = "Full Stack Developer";
+const title = "Subhan";
 const username = "M-Subhan1";
+const twitterUsername = "";
+const instagramUsername = "";
+const youtubeUsername = "";
 const linkedinUsername = "muhammad-subhan-abbas-b06989183";
 const host = "kreatordev.com";
 const url = "https://" + host;
@@ -24,4 +27,7 @@ export {
   title,
   url,
   username,
+  instagramUsername,
+  twitterUsername,
+  youtubeUsername
 };
