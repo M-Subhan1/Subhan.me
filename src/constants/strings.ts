@@ -1,9 +1,9 @@
 const author = "Subhan Abbas";
 const title = "Subhan";
 const username = "M-Subhan1";
-const twitterUsername = "";
-const instagramUsername = "";
-const youtubeUsername = "";
+const twitterUsername = "mmsubhan_";
+const instagramUsername = "mm_subhan";
+const youtubeUsername = "mm_subhan";
 const linkedinUsername = "muhammad-subhan-abbas-b06989183";
 const host = "kreatordev.com";
 const url = "https://" + host;
