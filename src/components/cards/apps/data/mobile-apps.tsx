@@ -5,7 +5,7 @@ export const mobileApps: AppItemType[] = [
     title: "Quintellect",
     description:
       "An AI assistant to record, transcribe your meetings. Generate meeting notes, flashcards, quizzes and share them with your colleague.",
-    image: "/works/vocado/logo.png",
+    image: "/works/quintellect/logo.png",
     appstore: "https://apps.apple.com/app/vocado/id1552999113",
     path: "/work/quintellect",
     keywords: [
