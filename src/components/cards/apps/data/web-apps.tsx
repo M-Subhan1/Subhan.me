@@ -14,11 +14,19 @@ export const webApps: AppItemType[] = [
   {
     title: "FlyBasis",
     description:
-      "The ultimate inventory tool for resellers. Advanced inventory features. Import your items and track all your inventory in one place. Tailored for sneakers, streetwear and more!",
+      "Book Business Class Flights For Less. Explore a myriad of flight options with an average discount rate of 64%. The only consolidator in the world where you can search and book entirely online.",
     image: "/works/flybasis/logo.png",
     link: "https://flybasis.com",
     path: "/work/flybasis",
-    tags: ["Next.js", "Tailwind CSS", "React", "Trigger.dev", "Node.js", "Stripe", "Supabase"],
+    tags: [
+      "Next.js",
+      "Tailwind CSS",
+      "React",
+      "Trigger.dev",
+      "Node.js",
+      "Stripe",
+      "Supabase",
+    ],
     hasBorder: true,
   },
   {
@@ -32,6 +40,24 @@ export const webApps: AppItemType[] = [
     hasBorder: true,
   },
   {
+    title: "ProSelfies",
+    description:
+      "Transform Your Selfies Into Professional Headshots 💼 Unleash the power of a good first impression and don't let a picture limit your potential.Powered by AI researchers from Google and Microsoft. Choose from multiple styles such as business, medical, real estate, casual & more.",
+    image: "/works/proselfies/logo.png",
+    imageClassName: "m-2",
+    link: "https://proselfies.com",
+    tags: [
+      "Next.js",
+      "Tailwind CSS",
+      "React",
+      "Node.js",
+      "LLM",
+      "OpenAI",
+      "Supabase",
+    ],
+    path: "/work/proselfies",
+  },
+  {
     title: "Retailed",
     description:
       "The ultimate inventory tool for resellers. Advanced inventory features. Import your items and track all your inventory in one place. Tailored for sneakers, streetwear and more!",
@@ -42,17 +68,9 @@ export const webApps: AppItemType[] = [
     hasBorder: true,
   },
   {
-    title: "ProSelfies",
-    description: "Transform Your Selfies Into Professional Headshots 💼 Unleash the power of a good first impression and don't let a picture limit your potential.Powered by AI researchers from Google and Microsoft. Choose from multiple styles such as business, medical, real estate, casual & more.",
-    image: "/works/proselfies/logo.png",
-    imageClassName: "m-2",
-    link: "https://proselfies.com",
-    tags: ["Next.js", "Tailwind CSS","React", "Node.js", "LLM", "OpenAI", "Supabase"],
-    path: "/work/proselfies",
-  },
-  {
     title: "WhereToCop",
-    description: "WhereToCop is your ultimate go-to shop for all your clothing and apparel needs.",
+    description:
+      "WhereToCop is your ultimate go-to shop for all your clothing and apparel needs.",
     image: "/works/wheretocop/logo.webp",
     link: "https://wheretocop.shop",
     tags: ["Next.js", "React", "Node.js", "OpenAI", "Supabase"],

@@ -40,24 +40,4 @@ export const mobileApps: AppItemType[] = [
     tags: ["Next.js", "React Native", "Node.js", "Stripe", "Supabase"],
     hasBorder: true,
   },
-  {
-    title: "DormLive",
-    description:
-      "A hang-out college app to help students find, meet new people, and create audio rooms, and chat with friends.",
-    image: "/works/dormlive/logo.png",
-    appstore: "https://apps.apple.com/app/dormlive/id1553996014",
-    path: "/work/dormlive",
-    tags: ["Flutter", "Firebase"],
-  },
-  {
-    title: "Voz",
-    description:
-      "A voice chat app to send voice messages, and to chat with friends, designed to save time and have fun.",
-    image: "/works/voz/logo.png",
-    playstore:
-      "https://play.google.com/store/apps/details?id=com.kreatordev.avc",
-    hasBorder: true,
-    path: "/work/voz",
-    tags: ["Flutter", "Firebase", "Google STT"],
-  },
 ];
